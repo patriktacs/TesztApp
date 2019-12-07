@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TésztApp</string>
+    <string name="daily_pasta">Daily pasta</string>
+    <string name="pasta_list">Pasta list</string>
+    <string name="favourites">Favourites</string>
+    <string name="add_to_favourites">Add to favourites</string>
+</resources>
